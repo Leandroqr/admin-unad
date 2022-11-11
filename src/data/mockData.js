@@ -3,7 +3,7 @@ import { tokens } from "../theme";
 export const mockDataTeam = [
   {
     id: 1,
-    name: "Jon Snow",
+    name: "Articulo 1",
     email: "jonsnow@gmail.com",
     age: 35,
     phone: "(665)121-5454",
@@ -78,7 +78,7 @@ export const mockDataTeam = [
 export const mockDataContacts = [
   {
     id: 1,
-    name: "Jon Snow",
+    name: "Articulo 1",
     email: "jonsnow@gmail.com",
     age: 35,
     phone: "(665)121-5454",
@@ -202,7 +202,7 @@ export const mockDataContacts = [
 export const mockDataInvoices = [
   {
     id: 1,
-    name: "Jon Snow",
+    name: "Articulo 1",
     email: "jonsnow@gmail.com",
     cost: "21.24",
     phone: "(665)121-5454",
@@ -264,6 +264,87 @@ export const mockDataInvoices = [
     phone: "(222)444-5555",
     date: "05/02/2021",
   },
+];
+
+export const mockDataProducts = [
+  {
+    id: 1,
+    name: "Articulo 1",
+    category: "Category",
+    stop: "21",
+    price: "100.000"
+  },
+  {
+    id: 2,
+    name: "Articulo 2",
+    category: "Category",
+    stop: "21",
+    price: "100.000"
+  },
+  {
+    id: 3,
+    name: "Articulo 3",
+    category: "Category",
+    stop: "22",
+    price: "100.000"
+  },
+  {
+    id: 4,
+    name: "Articulo 4",
+    category: "Category",
+    stop: "21",
+    price: "100.000"
+  },
+  {
+    id: 5,
+    name: "Articulo 5",
+    category: "Category",
+    stop: "21",
+    price: "100.000"
+  },
+  {
+    id: 6,
+    name: "Articulo 6",
+    category: "Category",
+    stop: "21",
+    price: "100.000"
+  },
+  {
+    id: 7,
+    name: "Articulo 7",
+    category: "Category",
+    stop: "21",
+    price: "100.000"
+  },
+  {
+    id: 8,
+    name: "Articulo 8",
+    category: "Category",
+    stop: "21",
+    price: "100.000"
+  },
+  {
+    id: 9,
+    name: "Articulo 9",
+    category: "Category",
+    stop: "21",
+    price: "100.000"
+  },
+  {
+    id: 10,
+    name: "Articulo 10",
+    category: "Category",
+    stop: "21",
+    price: "100.000"
+  },
+  {
+    id: 11,
+    name: "Articulo 11",
+    category: "Category",
+    stop: "21",
+    price: "100.000"
+  },
+
 ];
 
 export const mockTransactions = [
